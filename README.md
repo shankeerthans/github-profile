@@ -5,23 +5,50 @@
 <!-- Programming Skills-->
 <h2> Programming Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<a href="https://www.java.com" target="_blank"> 
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<a href="https://swift.org">
+  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
 </a>
 
 <a href="https://www.python.org" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
-<a href="https://swift.org">
-  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+<a href="https://www.isocpp.org" target="_blank"> 
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+
+<a href="https://www.javascript.com" target="_blank"> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </a>
 <!---->
 
-<!-- Github Stats-->
-<h2>Github Stats</h2>
+<!-- Technologies -->
+<h2> Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+<a href="https://swift.org">
+  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+</a>
+
+<a href="https://www.python.org" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://www.isocpp.org" target="_blank"> 
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+
+<a href="https://www.javascript.com" target="_blank"> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</a>
+<!---->
+
+<!-- GitHub Stats-->
+<h2>GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankeerthans&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="GitHub Stats">
+<a href="https://github.com/shankeerthans">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankeerthans&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankeerthans&layout=compact&langs_count=8&theme=dark"/>
+</a>
 </p>
 <!---->
