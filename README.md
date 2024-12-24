@@ -1,9 +1,14 @@
+<img src="https://github.com/shankeerthans/github-profile/blob/main/assets/profile-background.png" />
+
+
 <h1 align="center">Hi 👋, I'm Shankeerthan Sivapalan</h1>
 
 <h3 align="center"> Software Engineer specializing in iOS Application Development with nearly 3 years of experience </h3>
 
 <!-- Programming Skills-->
-<h2> Programming Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Programming Skills </h2>
+
+[//]: # (<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>)
 
 <a href="https://swift.org">
   <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
@@ -23,10 +28,10 @@
 <!---->
 
 <!-- Technologies -->
-<h2> Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Technologies </h2>
 
 <a href="https://swift.org">
-  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+  <img alt="NodeJS" src="https://img.shields.io/badge/node-F54A2A?style=for-the-badge&logo=node&logoColor=white">
 </a>
 
 <a href="https://www.python.org" target="_blank">
